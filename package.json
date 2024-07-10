@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "postinstall": "npx playwright install",
+    "test": "npx playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.45.1"
+  }
+}

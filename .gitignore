@@ -1,3 +1,7 @@
+.idea
+test-results/
+playwright-report/
+
 # Logs
 logs
 *.log
